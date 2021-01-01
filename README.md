@@ -19,7 +19,7 @@ Your morning toast or cereal may rely upon this common grain. Its popularity as 
 
 In this project, the motive was to detect wheat heads for further analysis(analysis nnot included). From the images of the field I can now detect the wheat heads which can be used by scientists or farmer for analysis like spread, size, thickness or each head.
 
-follow on this [DETR(DEtection TRansformer)](https://github.com/facebookresearch/detr)to read more about it.
+follow on this (DEtection TRansformer) [DETR](https://github.com/facebookresearch/detr)to read more about it.
 
 ## Motivation
 Wanted to try a new unique SOTA model for object detection.
